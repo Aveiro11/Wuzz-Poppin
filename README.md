@@ -3,8 +3,9 @@ Chat App
 Here the snippets of the chat app built using react-redux,node js, firebase.
 
 Here in this chat app one can create multiple channels under one user to connect with others, starr and mark his most favourite or important channels, share media files
-and send emojis to other users. One can also change his avatar from his local host and crop them as they see fitting to their pfp. One can also search inside their messages 
-to find a specific message they are looking for.
+and send emojis to other users. One can also change his avatar from his local host and crop them as they see fitting to their pfp. One can also search inside their messages to find a specific message they are looking for.
+
+
 ![Screenshot 2023-05-17 005438](https://github.com/Aveiro11/Wuzz-Poppin/assets/74791612/71b800af-e66a-4202-96dc-9b666900a707)
 ![Screenshot 2023-05-17 010527](https://github.com/Aveiro11/Wuzz-Poppin/assets/74791612/9bfb5b79-0913-4aec-ac8a-d15ff211c5c5)
 ![Screenshot 2023-05-17 010607](https://github.com/Aveiro11/Wuzz-Poppin/assets/74791612/3635ce4f-e40f-44fb-9dc8-4ebdb5761909)
